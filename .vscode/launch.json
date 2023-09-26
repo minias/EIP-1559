@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "debug Run EIP-1559",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/cmd/main.go",
+            "cwd": "${workspaceRoot}",
+        }    
+    ]
+}
